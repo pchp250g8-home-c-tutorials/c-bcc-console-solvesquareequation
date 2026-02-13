@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.02.13 18:14:44.466,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.13 18:14:44.644,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.13 18:18:39.464,D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\SolveSquareEquationPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.13 18:18:39.481,D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.13 18:18:39.504,D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\SolveSquareEquation.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.02.13 18:19:01.881,D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\SolveSquareEquation.c=D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\File1.c</Transaction>
+    <Transaction>2026.02.13 18:19:06.412,D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\SolveSquareEquation.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\SolveSquareEquation\SolveSquareEquation.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
